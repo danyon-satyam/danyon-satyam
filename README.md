@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyon-satyam&" alt="danyon-satyam" /></p>
 
-<p><img align="center" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Coding" /></p>
+<p><img align="center" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif" alt="danyon-satyam" /></p>
 
