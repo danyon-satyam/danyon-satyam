@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Satyam Mohapatra</h1>
 <h3 align="center">A passionate data science engineer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyon-satyam&label=Profile%20views&color=0e75b6&style=flat" alt="danyon-satyam" /> </p>
 
@@ -33,4 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyon-satyam&show_icons=true&locale=en" alt="danyon-satyam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyon-satyam&" alt="danyon-satyam" /></p>
+
+<p><img align="center" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Coding" /></p>
 
