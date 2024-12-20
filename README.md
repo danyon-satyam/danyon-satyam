@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyon-satyam&show_icons=true&locale=en" alt="danyon-satyam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyon-satyam&" alt="danyon-satyam" /></p>
+
