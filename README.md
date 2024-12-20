@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohapatrasatyam" target="blank"><img src="https://img.shields.io/twitter/follow/mohapatrasatyam?logo=twitter&style=for-the-badge" alt="mohapatrasatyam" /></a> </p>
 
-- 🌱 I’m currently learning **Data analytics ,Data base management. , etc.**
+- 🌱 I’m currently learning **Data analytics, Data base management. , etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danyon-satyam?tab=overview&from=2023-04-01&to=2023-04-30](https://github.com/danyon-satyam?tab=overview&from=2023-04-01&to=2023-04-30)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/satyam-mohapatra-bb8964230/**
 
-- ⚡ Fun fact **I thing everything is admirable.**
+- ⚡ Fun fact **I think everything is admirable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
